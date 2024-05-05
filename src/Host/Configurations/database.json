@@ -1,0 +1,12 @@
+//{
+//  "DatabaseSettings": {
+//    "DBProvider": "mssql",
+//    "ConnectionString": "Server=10.10.10.50,1469; Database=DEMOAPP2;User Id=tdcongdan; Password=Tandan@123; Trusted_Connection=False; MultipleActiveResultSets=true;Encrypt=False;"
+//  }
+//}
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Server=.; Database=quanlyketoan; Trusted_Connection=True; MultipleActiveResultSets=true; TrustServerCertificate=True;"
+  }
+}

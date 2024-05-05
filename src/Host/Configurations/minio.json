@@ -1,0 +1,9 @@
+{
+  "MinioSettings": {
+    "Endpoint": "minioapi.hanhchinhcong.net",
+    "AccessKey": "zbexCddDlOjC4myk",
+    "SecretKey": "xZXmk36V3J6O3EdwiFQwC1zS8fovE0jn",
+    "Region": "",
+    "SessionToken": ""
+  }
+}

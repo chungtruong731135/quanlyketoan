@@ -1,0 +1,10 @@
+{
+  "MailSettings": {
+    "DisplayName": "Tan Dan JSC",
+    "From": "tandanjsc.contact@gmail.com",
+    "Host": "smtp.gmail.com",
+    "Password": "ruiocarhtleehhtx",
+    "Port": 587,
+    "UserName": "tandanjsc.contact@gmail.com"
+  }
+}

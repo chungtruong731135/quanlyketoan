@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 7.0 WebAPI ",
+    "Version": "v1",
+    "Description": "Multitenancy Support.",
+    "ContactName": "TanDanJSC",
+    "ContactEmail": "tandanjsc.contact@gmail.com",
+    "ContactUrl": "https://tandan.com.vn",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://tandan.com.vn"
+  }
+}

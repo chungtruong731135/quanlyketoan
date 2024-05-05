@@ -1,0 +1,15 @@
+{
+  "LDAPSettings": {
+    "Enable": true,
+    "Port": 389,
+    "Zone": "com",
+    "Domain": "10.10.10.6",
+    "LDAPserver": "10.10.10.6",
+    "LDAPQueryBase": "DC=tandan,DC=com,DC=vn",
+    "Subdomain": "ad",
+    "Crew": "crew",
+    "Managers": "DC=tandan,DC=com,DC=vn",
+    "Username": "sysadmin@tandan.com.vn",
+    "Password": "Tandan60^)2017"
+  }
+}

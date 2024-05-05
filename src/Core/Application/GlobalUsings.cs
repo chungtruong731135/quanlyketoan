@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using TD.WebApi.Application.Common.Events;
+global using TD.WebApi.Application.Common.Exceptions;
+global using TD.WebApi.Application.Common.FileStorage;
+global using TD.WebApi.Application.Common.Interfaces;
+global using TD.WebApi.Application.Common.Models;
+global using TD.WebApi.Application.Common.Persistence;
+global using TD.WebApi.Application.Common.Specification;
+global using TD.WebApi.Application.Common.Validation;
+global using TD.WebApi.Domain.Catalog;
+global using TD.WebApi.Domain.Common;
+global using TD.WebApi.Domain.Common.Contracts;
+global using TD.WebApi.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

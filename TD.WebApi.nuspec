@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>TD.WebAPI.Boilerplate</id>
+        <title>.NET WebAPI Boilerplate - TD</title>
+        <version>0.0.2</version>
+        <authors>Polaris</authors>
+        <description>
+            Clean Architecture Template for .NET 7.0 WebAPI built with Multitenancy Support.
+        </description>
+        <language>en-US</language>
+        <license type="expression">MIT</license>
+        <copyright>2021</copyright>
+        <projectUrl>https://tandan.com.vn/</projectUrl>
+        <repository type="git" url="https://github.com/DarkangelKid/TD.WebApi.NET7.git"/>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+        <tags>cleanarchitecture clean architecture WebAPI solution csharp</tags>
+    </metadata>
+    <files>
+        <file src=".\**" target="content" exclude="**\bin\**;**\obj\**;**\.git\**;**\.github\**;**\*.user;**\.vs\**;**\Images\**;**\Logs\**" />
+    </files>
+</package>
